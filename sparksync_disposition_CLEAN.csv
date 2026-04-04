@@ -1,0 +1,498 @@
+mrn,name,age,primary_diagnosis,priority_1,priority_2,transition_focus,coordinator_comfort
+MRN-936669,Patient_3,26,Bipolar II,Standard DBT,Life Skills,,3.7
+ERROR_999_###,Patient_4,84,PTSD,RO-DBT,ERP,Strong Treatment,4.8
+MRN-515353,Patient_5,41,Schizoaffective,CBT,RO-DBT,Life Skills,4.3
+MRN-973785,Patient_6,50,Bipolar II,ERP,EMDR,Strong Treatment,4.1
+MRN-417970,Patient_7,42,GAD,Psychodynamic,Life Skills,Strong Treatment,3.6
+MRN-169575,Patient_8,84,Bipolar II,CBT,RO-DBT,Life Skills,3.6
+MRN-786872,Patient_9,57,GAD,Psychodynamic,CBT,Strong Treatment,3.7
+MRN-592282,Patient_10,37,Schizoaffective,Life Skills,MBT,Strong Treatment,4.5
+MRN-532031,Patient_11,23,Bipolar I,ERP,RO-DBT,Life Skills,3.6
+MRN-393607,Patient_12,37,Bipolar I,ERP,RO-DBT,Strong Treatment,4.9
+MRN-402390,Patient_13,30,Bipolar I,RO-DBT,Psychodynamic,Life Skills,4.9
+MRN-201082,Patient_14,61,OCD,ERP,RO-DBT,Life Skills,4.4
+MRN-348488,Patient_15,55,OCD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-745798,Patient_16,39,Schizoaffective,EMDR,CBT,Strong Treatment,3.9
+MRN-251610,Patient_17,45,Bipolar II,ERP,RO-DBT,Life Skills,3.5
+MRN-424499,Patient_18,66,Bipolar I,MBT,ERP,Life Skills,4.5
+MRN-267832,Patient_19,47,PTSD,RO-DBT,EMDR,Strong Treatment,4.9
+MRN-866314,Patient_20,68,Dependent PD,MBT,Psychodynamic,Life Skills,3.7
+MRN-713772,Patient_21,26,MDD,MBT,Life Skills,Strong Treatment,3.8
+MRN-227719,Patient_22,39,GAD,EMDR,Life Skills,Strong Treatment,4.5
+MRN-236572,Patient_23,70,PTSD,Psychodynamic,Life Skills,Strong Treatment,3.7
+MRN-948913,Patient_24,81,PTSD,ERP,Standard DBT,Strong Treatment,3.9
+MRN-677000,Patient_25,45,GAD,RO-DBT,CBT,Strong Treatment,4.2
+MRN-600144,Patient_26,28,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-489125,Patient_27,36,MDD,CBT,Standard DBT,Strong Treatment,3.9
+MRN-339782,Patient_28,47,PTSD,RO-DBT,CBT,Life Skills,3.9
+MRN-504526,Patient_29,66,PTSD,RO-DBT,EMDR,Strong Treatment,4.5
+MRN-319906,Patient_30,49,Narcissistic PD,MBT,Psychodynamic,Life Skills,4.1
+MRN-642395,Patient_31,49,MDD,CBT,Psychodynamic,Life Skills,4.0
+MRN-408704,Patient_32,67,GAD,ERP,RO-DBT,Strong Treatment,3.5
+MRN-332967,Patient_33,59,MDD,MBT,EMDR,Strong Treatment,4.6
+MRN-159056,Patient_34,63,Bipolar II,CBT,Psychodynamic,Strong Treatment,4.7
+MRN-538356,Patient_35,54,Schizoaffective,Psychodynamic,Standard DBT,Strong Treatment,4.2
+MRN-469161,Patient_36,83,MDD,ERP,RO-DBT,Strong Treatment,4.8
+MRN-707513,Patient_37,81,MDD,CBT,RO-DBT,Life Skills,4.0
+MRN-320933,Patient_38,25,Schizoaffective,Psychodynamic,CBT,Strong Treatment,4.1
+MRN-194277,Patient_39,83,Bipolar II,Standard DBT,Psychodynamic,Life Skills,4.6
+MRN-785610,Patient_40,64,Dependent PD,MBT,Psychodynamic,Strong Treatment,4.1
+MRN-777381,Patient_41,36,ASPD,MBT,Psychodynamic,Strong Treatment,4.6
+MRN-694945,Patient_42,25,GAD,MBT,CBT,Life Skills,3.9
+MRN-722703,Patient_43,33,OCD,ERP,RO-DBT,Life Skills,4.0
+MRN-683150,Patient_44,80,MDD,RO-DBT,MBT,Strong Treatment,4.4
+MRN-280730,Patient_45,47,MDD,Life Skills,ERP,Strong Treatment,3.8
+MRN-232464,Patient_46,30,GAD,Life Skills,Standard DBT,Strong Treatment,4.0
+MRN-253213,Patient_47,56,Bipolar I,EMDR,RO-DBT,Strong Treatment,4.1
+MRN-907386,Patient_48,49,Bipolar II,ERP,Standard DBT,Strong Treatment,3.8
+MRN-388143,Patient_49,24,Schizoaffective,ERP,RO-DBT,Life Skills,4.8
+MRN-537439,Patient_50,43,Schizoaffective,CBT,MBT,Life Skills,3.6
+MRN-266505,Patient_51,81,PTSD,MBT,ERP,Strong Treatment,4.8
+MRN-581406,Patient_52,59,GAD,Psychodynamic,RO-DBT,Strong Treatment,3.8
+MRN-413998,Patient_53,73,MDD,Life Skills,MBT,Strong Treatment,4.7
+MRN-543118,Patient_54,36,PTSD,EMDR,CBT,Strong Treatment,4.9
+MRN-486057,Patient_55,20,PTSD,ERP,RO-DBT,Strong Treatment,3.5
+MRN-391726,Patient_56,37,OCD,ERP,RO-DBT,Strong Treatment,4.7
+MRN-502561,Patient_57,39,Bipolar II,Psychodynamic,ERP,Strong Treatment,4.7
+MRN-663258,Patient_58,62,BPD,MBT,Psychodynamic,Strong Treatment,4.9
+MRN-703598,Patient_59,64,OCD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-214665,Patient_60,72,Schizoaffective,ERP,RO-DBT,Life Skills,4.0
+MRN-912252,Patient_61,82,OCD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-323525,Patient_62,35,Bipolar I,RO-DBT,Life Skills,Strong Treatment,4.7
+MRN-194089,Patient_63,33,Bipolar I,MBT,CBT,Strong Treatment,5.0
+MRN-784227,Patient_64,78,Bipolar I,ERP,RO-DBT,Life Skills,5.0
+MRN-804360,Patient_65,22,Bipolar II,MBT,ERP,Strong Treatment,4.8
+MRN-456117,Patient_66,50,PTSD,MBT,Standard DBT,Strong Treatment,4.4
+MRN-676196,Patient_67,46,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-285121,Patient_68,39,Schizoaffective,CBT,ERP,Strong Treatment,4.5
+MRN-560192,Patient_69,49,PTSD,RO-DBT,ERP,Life Skills,4.4
+MRN-119386,Patient_70,38,MDD,Psychodynamic,RO-DBT,Life Skills,4.6
+MRN-334640,Patient_71,18,GAD,Standard DBT,EMDR,Life Skills,5.0
+MRN-839749,Patient_72,19,OCD,ERP,RO-DBT,Strong Treatment,4.0
+MRN-512633,Patient_73,35,GAD,Standard DBT,MBT,Strong Treatment,4.2
+MRN-259573,Patient_74,18,Bipolar II,Psychodynamic,CBT,Life Skills,4.7
+MRN-714273,Patient_75,52,GAD,Life Skills,Standard DBT,Strong Treatment,4.1
+MRN-344679,Patient_76,47,MDD,Standard DBT,MBT,Strong Treatment,3.8
+MRN-108288,Patient_77,56,GAD,ERP,RO-DBT,Life Skills,4.4
+MRN-469898,Patient_78,55,Schizoaffective,Psychodynamic,ERP,Strong Treatment,4.5
+MRN-779180,Patient_79,31,Schizoaffective,ERP,EMDR,Strong Treatment,4.0
+MRN-627032,Patient_80,24,ASPD,MBT,Psychodynamic,Strong Treatment,4.8
+MRN-438122,Patient_81,63,Bipolar I,Life Skills,MBT,Life Skills,4.3
+MRN-376726,Patient_82,59,GAD,ERP,Psychodynamic,Life Skills,4.3
+MRN-566039,Patient_83,45,Bipolar II,Psychodynamic,EMDR,Strong Treatment,3.8
+MRN-576484,Patient_84,70,Avoidant PD,MBT,Psychodynamic,Strong Treatment,4.8
+MRN-177487,Patient_85,64,GAD,ERP,Standard DBT,Life Skills,3.5
+MRN-745940,Patient_86,71,Schizoaffective,Psychodynamic,MBT,Strong Treatment,4.3
+MRN-866840,Patient_87,61,Bipolar II,Life Skills,MBT,Strong Treatment,5.0
+MRN-665392,Patient_88,84,PTSD,EMDR,ERP,Life Skills,4.9
+MRN-349609,Patient_89,20,PTSD,Standard DBT,Life Skills,Strong Treatment,4.0
+MRN-502548,Patient_90,48,BPD,MBT,Psychodynamic,Strong Treatment,4.8
+MRN-196143,Patient_91,22,GAD,ERP,Psychodynamic,Strong Treatment,4.5
+MRN-325207,Patient_92,40,PTSD,RO-DBT,Psychodynamic,Strong Treatment,3.7
+MRN-634006,Patient_93,22,Schizoaffective,MBT,Psychodynamic,Life Skills,4.6
+MRN-157498,Patient_94,40,MDD,Life Skills,MBT,Life Skills,3.9
+MRN-908699,Patient_95,71,Dependent PD,MBT,Psychodynamic,Strong Treatment,3.7
+MRN-195124,Patient_96,33,Bipolar II,Standard DBT,MBT,Life Skills,4.7
+MRN-193417,Patient_97,59,BPD,MBT,Psychodynamic,Life Skills,3.7
+MRN-772373,Patient_98,60,Bipolar I,EMDR,Standard DBT,Strong Treatment,4.5
+MRN-853555,Patient_99,40,GAD,Life Skills,Psychodynamic,Strong Treatment,3.6
+MRN-504002,Patient_100,46,MDD,RO-DBT,Life Skills,Strong Treatment,4.3
+MRN-463927,Patient_101,67,Bipolar I,MBT,RO-DBT,Life Skills,4.2
+MRN-709213,Patient_102,51,PTSD,RO-DBT,Psychodynamic,Life Skills,3.7
+MRN-951745,Patient_103,64,OCD,ERP,RO-DBT,Strong Treatment,4.3
+MRN-655420,Patient_104,54,MDD,Life Skills,Psychodynamic,Life Skills,4.7
+MRN-186191,Patient_105,47,GAD,ERP,RO-DBT,Strong Treatment,4.0
+MRN-877334,Patient_106,51,PTSD,Standard DBT,ERP,Life Skills,3.6
+MRN-234760,Patient_107,63,Narcissistic PD,MBT,Psychodynamic,Strong Treatment,3.6
+MRN-272253,Patient_108,31,MDD,EMDR,MBT,Life Skills,3.6
+MRN-729713,Patient_109,36,Schizoaffective,Life Skills,Standard DBT,Strong Treatment,4.8
+MRN-344382,Patient_110,59,GAD,CBT,RO-DBT,Life Skills,3.6
+MRN-549264,Patient_111,58,Bipolar II,ERP,RO-DBT,Life Skills,4.5
+MRN-511941,Patient_112,27,MDD,ERP,CBT,Strong Treatment,4.8
+MRN-812199,Patient_113,54,GAD,ERP,Psychodynamic,Strong Treatment,4.9
+MRN-226293,Patient_114,25,Bipolar II,Standard DBT,ERP,Strong Treatment,3.7
+MRN-621881,Patient_115,33,Schizoaffective,MBT,CBT,Strong Treatment,3.9
+MRN-818393,Patient_116,48,GAD,Life Skills,Standard DBT,Life Skills,4.3
+MRN-810059,Patient_117,24,GAD,ERP,RO-DBT,Strong Treatment,3.8
+MRN-739321,Patient_118,68,Schizoaffective,ERP,Standard DBT,Strong Treatment,4.5
+MRN-615656,Patient_119,66,Bipolar II,ERP,RO-DBT,Strong Treatment,4.0
+MRN-199406,Patient_120,36,PTSD,RO-DBT,CBT,Strong Treatment,4.8
+MRN-935876,Patient_121,32,Schizoaffective,RO-DBT,EMDR,Life Skills,4.2
+MRN-495256,Patient_122,64,Schizoaffective,Life Skills,CBT,Life Skills,3.9
+MRN-998704,Patient_123,25,Avoidant PD,ERP,RO-DBT,Life Skills,4.6
+MRN-907635,Patient_124,84,MDD,CBT,Psychodynamic,Life Skills,4.1
+MRN-108225,Patient_125,58,Bipolar I,MBT,EMDR,Life Skills,4.8
+MRN-410657,Patient_126,38,PTSD,Psychodynamic,ERP,Strong Treatment,3.6
+MRN-685022,Patient_127,66,MDD,Psychodynamic,MBT,Strong Treatment,3.5
+MRN-280646,Patient_128,65,GAD,ERP,RO-DBT,Strong Treatment,4.3
+MRN-744665,Patient_129,30,GAD,ERP,RO-DBT,Life Skills,3.8
+MRN-970154,Patient_130,31,ASPD,MBT,Psychodynamic,Strong Treatment,3.7
+MRN-947349,Patient_131,74,PTSD,EMDR,Life Skills,Life Skills,3.9
+MRN-506872,Patient_132,22,Bipolar II,Standard DBT,ERP,Life Skills,4.9
+MRN-467305,Patient_133,32,GAD,CBT,Life Skills,Strong Treatment,3.9
+MRN-750392,Patient_134,64,Bipolar II,ERP,CBT,Life Skills,4.1
+MRN-850836,Patient_135,71,ASPD,MBT,Psychodynamic,Life Skills,4.3
+MRN-417884,Patient_136,47,Bipolar I,ERP,RO-DBT,Strong Treatment,3.9
+MRN-470783,Patient_137,20,ASPD,MBT,Psychodynamic,Strong Treatment,3.9
+MRN-912909,Patient_138,63,GAD,Psychodynamic,RO-DBT,Strong Treatment,4.5
+MRN-723928,Patient_139,63,Bipolar II,EMDR,MBT,Strong Treatment,4.9
+MRN-188685,Patient_140,50,Schizoaffective,MBT,Standard DBT,Strong Treatment,3.8
+MRN-410645,Patient_141,29,OCD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-136842,Patient_142,74,Bipolar II,Psychodynamic,Standard DBT,Life Skills,4.8
+MRN-745526,Patient_143,60,Bipolar II,ERP,RO-DBT,Strong Treatment,4.8
+MRN-813475,Patient_144,83,Schizoaffective,ERP,Psychodynamic,Strong Treatment,4.9
+MRN-655899,Patient_145,67,MDD,ERP,RO-DBT,Strong Treatment,4.7
+MRN-223697,Patient_146,81,Bipolar II,ERP,RO-DBT,Life Skills,3.6
+MRN-920900,Patient_147,43,Bipolar II,Standard DBT,ERP,Life Skills,4.2
+MRN-289584,Patient_148,35,PTSD,Standard DBT,Life Skills,Strong Treatment,3.7
+MRN-189395,Patient_149,34,Avoidant PD,MBT,Psychodynamic,Strong Treatment,4.3
+MRN-861990,Patient_150,73,Bipolar II,ERP,MBT,Strong Treatment,4.8
+MRN-762964,Patient_151,19,Bipolar II,ERP,RO-DBT,Strong Treatment,4.6
+MRN-294737,Patient_152,63,Bipolar I,ERP,CBT,Strong Treatment,4.7
+MRN-664830,Patient_153,34,Bipolar II,ERP,EMDR,Life Skills,3.6
+MRN-693231,Patient_154,34,Avoidant PD,ERP,RO-DBT,Life Skills,4.4
+MRN-323405,Patient_155,68,PTSD,ERP,EMDR,Strong Treatment,3.7
+MRN-721683,Patient_156,72,PTSD,CBT,Psychodynamic,Strong Treatment,4.3
+MRN-232556,Patient_157,77,Bipolar II,ERP,Life Skills,Strong Treatment,4.2
+MRN-470563,Patient_158,60,Bipolar II,ERP,RO-DBT,Life Skills,3.7
+MRN-704662,Patient_159,78,Bipolar II,ERP,RO-DBT,Strong Treatment,4.2
+MRN-694310,Patient_160,74,Bipolar II,ERP,Psychodynamic,Strong Treatment,4.5
+MRN-896850,Patient_161,43,GAD,ERP,MBT,Strong Treatment,3.8
+MRN-999136,Patient_162,67,Schizoaffective,EMDR,Life Skills,Strong Treatment,4.1
+MRN-223161,Patient_163,26,GAD,MBT,Standard DBT,Strong Treatment,3.8
+MRN-371004,Patient_164,64,Bipolar I,EMDR,CBT,Strong Treatment,4.3
+MRN-834863,Patient_165,30,PTSD,ERP,RO-DBT,Strong Treatment,4.5
+MRN-713721,Patient_166,29,Bipolar I,Standard DBT,ERP,Strong Treatment,4.9
+MRN-341014,Patient_167,41,PTSD,ERP,RO-DBT,Strong Treatment,4.2
+MRN-622382,Patient_168,44,MDD,MBT,Psychodynamic,Strong Treatment,4.6
+MRN-263621,Patient_169,84,GAD,RO-DBT,CBT,Life Skills,4.0
+MRN-200058,Patient_170,75,Schizoaffective,EMDR,Standard DBT,Strong Treatment,4.3
+MRN-957654,Patient_171,84,Bipolar II,Standard DBT,RO-DBT,Strong Treatment,4.5
+MRN-761404,Patient_172,31,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-290737,Patient_173,69,PTSD,MBT,ERP,Strong Treatment,4.2
+MRN-280374,Patient_174,75,GAD,CBT,Psychodynamic,Strong Treatment,3.9
+MRN-566546,Patient_175,26,ASPD,MBT,Psychodynamic,Strong Treatment,3.7
+MRN-189277,Patient_176,49,Schizoaffective,RO-DBT,EMDR,Strong Treatment,4.3
+MRN-800046,Patient_177,34,MDD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-601661,Patient_178,27,Bipolar II,ERP,CBT,Strong Treatment,4.0
+MRN-152979,Patient_179,72,GAD,RO-DBT,CBT,Strong Treatment,4.7
+MRN-758860,Patient_180,77,BPD,MBT,Psychodynamic,Life Skills,3.7
+MRN-767411,Patient_181,78,MDD,Life Skills,Standard DBT,Strong Treatment,4.9
+MRN-318316,Patient_182,54,GAD,CBT,MBT,Strong Treatment,4.4
+MRN-211384,Patient_183,64,OCD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-721962,Patient_184,53,PTSD,Life Skills,CBT,Life Skills,4.4
+MRN-104227,Patient_185,24,ASPD,MBT,Psychodynamic,Life Skills,4.9
+MRN-591418,Patient_186,29,Bipolar I,ERP,MBT,Strong Treatment,4.6
+MRN-410625,Patient_187,42,GAD,Standard DBT,ERP,Strong Treatment,4.4
+MRN-474222,Patient_188,60,Schizoaffective,ERP,RO-DBT,Life Skills,4.3
+MRN-541109,Patient_189,34,Bipolar I,MBT,Standard DBT,Strong Treatment,4.8
+MRN-595306,Patient_190,39,PTSD,MBT,CBT,Strong Treatment,4.4
+MRN-209494,Patient_191,26,Bipolar II,ERP,CBT,Strong Treatment,4.3
+MRN-904001,Patient_192,66,PTSD,MBT,Psychodynamic,Strong Treatment,3.9
+MRN-543949,Patient_193,76,Schizoaffective,ERP,RO-DBT,Strong Treatment,4.6
+MRN-389067,Patient_194,82,GAD,Life Skills,Standard DBT,Life Skills,4.3
+MRN-528555,Patient_195,42,Bipolar II,Psychodynamic,ERP,Strong Treatment,3.6
+MRN-375857,Patient_196,27,Schizoaffective,Psychodynamic,Standard DBT,Life Skills,4.2
+MRN-837819,Patient_197,57,PTSD,MBT,Standard DBT,Strong Treatment,4.2
+MRN-814319,Patient_198,33,ASPD,MBT,Psychodynamic,Life Skills,4.9
+MRN-417335,Patient_199,74,MDD,Standard DBT,CBT,Strong Treatment,4.1
+MRN-600547,Patient_200,56,Schizoaffective,EMDR,Standard DBT,Strong Treatment,3.9
+MRN-526347,Patient_201,49,Schizoaffective,Standard DBT,Psychodynamic,Strong Treatment,3.6
+MRN-724242,Patient_202,74,Bipolar I,RO-DBT,ERP,Strong Treatment,3.9
+MRN-623988,Patient_203,22,Bipolar II,EMDR,CBT,Life Skills,5.0
+MRN-822358,Patient_204,38,ASPD,MBT,Psychodynamic,Life Skills,4.4
+MRN-894170,Patient_205,82,MDD,EMDR,CBT,Strong Treatment,4.8
+MRN-691128,Patient_206,45,Bipolar II,Standard DBT,ERP,Strong Treatment,4.3
+MRN-280013,Patient_207,45,Bipolar I,CBT,Psychodynamic,Strong Treatment,4.2
+MRN-191100,Patient_208,30,MDD,Standard DBT,CBT,Strong Treatment,4.0
+MRN-786889,Patient_209,27,GAD,ERP,RO-DBT,Strong Treatment,4.2
+MRN-840312,Patient_210,68,Bipolar II,Life Skills,MBT,Strong Treatment,4.0
+MRN-352264,Patient_211,54,PTSD,Standard DBT,EMDR,Life Skills,4.9
+MRN-549093,Patient_212,62,Schizoaffective,ERP,RO-DBT,Life Skills,4.0
+MRN-475743,Patient_213,82,GAD,EMDR,RO-DBT,Life Skills,3.5
+MRN-948632,Patient_214,22,Bipolar I,MBT,RO-DBT,Life Skills,4.3
+MRN-427346,Patient_215,41,GAD,CBT,Psychodynamic,Life Skills,4.5
+MRN-253172,Patient_216,29,OCD,ERP,RO-DBT,Strong Treatment,4.0
+MRN-309181,Patient_217,76,GAD,Psychodynamic,EMDR,Strong Treatment,4.5
+MRN-790998,Patient_218,76,PTSD,Life Skills,CBT,Strong Treatment,4.7
+MRN-744181,Patient_219,70,Bipolar II,ERP,RO-DBT,Life Skills,4.0
+MRN-250003,Patient_220,79,Dependent PD,MBT,Psychodynamic,Strong Treatment,4.9
+MRN-464013,Patient_221,30,PTSD,EMDR,Psychodynamic,Strong Treatment,4.3
+MRN-445100,Patient_222,26,GAD,Psychodynamic,CBT,Life Skills,4.3
+MRN-463915,Patient_223,74,Schizoaffective,RO-DBT,Psychodynamic,Strong Treatment,4.7
+MRN-684854,Patient_224,45,Bipolar II,MBT,ERP,Strong Treatment,4.6
+MRN-594262,Patient_225,42,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-893440,Patient_226,35,Schizoaffective,ERP,RO-DBT,Strong Treatment,3.7
+MRN-174473,Patient_227,76,Schizoaffective,CBT,Standard DBT,Strong Treatment,4.0
+MRN-908831,Patient_228,45,GAD,Life Skills,Psychodynamic,Strong Treatment,4.7
+MRN-118617,Patient_229,18,MDD,MBT,RO-DBT,Strong Treatment,4.3
+MRN-351863,Patient_230,71,Schizoaffective,Standard DBT,MBT,Life Skills,4.5
+MRN-149778,Patient_231,35,Dependent PD,ERP,RO-DBT,Strong Treatment,4.5
+MRN-601674,Patient_232,54,OCD,ERP,RO-DBT,Strong Treatment,3.5
+MRN-362081,Patient_233,67,GAD,MBT,Psychodynamic,Strong Treatment,4.1
+MRN-628615,Patient_234,46,OCD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-642125,Patient_235,38,Bipolar II,EMDR,ERP,Strong Treatment,4.6
+MRN-134496,Patient_236,82,GAD,EMDR,MBT,Strong Treatment,3.8
+MRN-437723,Patient_237,61,Bipolar II,Psychodynamic,RO-DBT,Life Skills,4.5
+MRN-534531,Patient_238,22,BPD,MBT,Psychodynamic,Life Skills,4.8
+MRN-523190,Patient_239,59,Avoidant PD,MBT,Psychodynamic,Strong Treatment,3.9
+MRN-450313,Patient_240,80,MDD,MBT,Life Skills,Strong Treatment,4.2
+MRN-266827,Patient_241,74,GAD,Standard DBT,CBT,Life Skills,4.5
+MRN-905423,Patient_242,51,Dependent PD,MBT,Psychodynamic,Strong Treatment,3.8
+MRN-416946,Patient_243,61,GAD,Psychodynamic,ERP,Strong Treatment,3.7
+MRN-859549,Patient_244,20,OCD,ERP,RO-DBT,Strong Treatment,4.7
+MRN-221364,Patient_245,42,GAD,ERP,RO-DBT,Strong Treatment,4.3
+MRN-765539,Patient_246,56,OCD,ERP,RO-DBT,Life Skills,4.5
+MRN-417765,Patient_247,29,Dependent PD,MBT,Psychodynamic,Strong Treatment,4.3
+MRN-274888,Patient_248,75,Bipolar II,Life Skills,Standard DBT,Strong Treatment,3.6
+MRN-981004,Patient_249,76,OCD,ERP,RO-DBT,Strong Treatment,4.8
+MRN-588106,Patient_250,74,GAD,ERP,RO-DBT,Life Skills,4.1
+MRN-603947,Patient_251,52,OCD,ERP,RO-DBT,Life Skills,4.7
+MRN-341567,Patient_252,50,OCD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-656865,Patient_253,51,Bipolar I,RO-DBT,EMDR,Strong Treatment,4.6
+MRN-198943,Patient_254,56,Bipolar II,Standard DBT,MBT,Strong Treatment,4.9
+MRN-985230,Patient_255,31,Bipolar II,CBT,MBT,Strong Treatment,3.6
+MRN-390756,Patient_256,48,Schizoaffective,ERP,RO-DBT,Life Skills,3.9
+MRN-232647,Patient_257,84,Dependent PD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-791063,Patient_258,18,GAD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-872356,Patient_259,71,Schizoaffective,ERP,Standard DBT,Strong Treatment,4.4
+MRN-469565,Patient_260,71,PTSD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-196233,Patient_261,52,Avoidant PD,MBT,Psychodynamic,Strong Treatment,3.7
+MRN-927119,Patient_262,57,Bipolar I,MBT,Life Skills,Strong Treatment,3.6
+MRN-605834,Patient_263,73,GAD,Standard DBT,EMDR,Strong Treatment,4.0
+MRN-687477,Patient_264,41,GAD,Standard DBT,ERP,Life Skills,5.0
+MRN-208680,Patient_265,23,GAD,ERP,Standard DBT,Strong Treatment,3.7
+MRN-808701,Patient_266,38,Bipolar II,EMDR,MBT,Strong Treatment,4.2
+MRN-410703,Patient_267,38,Schizoaffective,ERP,RO-DBT,Strong Treatment,3.5
+MRN-423732,Patient_268,83,ASPD,MBT,Psychodynamic,Life Skills,4.8
+MRN-259675,Patient_269,66,Schizoaffective,RO-DBT,MBT,Life Skills,3.8
+MRN-886883,Patient_270,25,Bipolar I,Standard DBT,Life Skills,Life Skills,3.9
+MRN-794987,Patient_271,19,PTSD,CBT,Standard DBT,Strong Treatment,4.7
+MRN-568128,Patient_272,82,PTSD,RO-DBT,CBT,Strong Treatment,4.8
+MRN-700914,Patient_273,48,Bipolar II,Standard DBT,Psychodynamic,Strong Treatment,3.9
+MRN-978651,Patient_274,76,Bipolar II,ERP,RO-DBT,Strong Treatment,3.5
+MRN-406080,Patient_275,39,GAD,Life Skills,ERP,Strong Treatment,4.4
+MRN-874172,Patient_276,73,PTSD,EMDR,Standard DBT,Strong Treatment,3.7
+MRN-698496,Patient_277,34,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-820970,Patient_278,55,OCD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-990226,Patient_279,82,Bipolar I,ERP,RO-DBT,Strong Treatment,3.8
+MRN-358938,Patient_280,55,Bipolar I,ERP,Standard DBT,Strong Treatment,4.4
+MRN-698531,Patient_281,39,BPD,MBT,Psychodynamic,Strong Treatment,4.6
+MRN-786853,Patient_282,64,MDD,RO-DBT,Standard DBT,Strong Treatment,4.0
+MRN-965731,Patient_283,54,Bipolar II,Psychodynamic,Life Skills,Strong Treatment,4.9
+MRN-335740,Patient_284,35,PTSD,Psychodynamic,Standard DBT,Strong Treatment,3.6
+MRN-453597,Patient_285,65,Bipolar II,EMDR,RO-DBT,Strong Treatment,4.1
+MRN-534671,Patient_286,69,MDD,RO-DBT,Psychodynamic,Strong Treatment,3.9
+MRN-397352,Patient_287,62,Bipolar I,ERP,RO-DBT,Strong Treatment,4.3
+MRN-451180,Patient_288,78,OCD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-696901,Patient_289,32,OCD,ERP,RO-DBT,Strong Treatment,4.9
+MRN-597368,Patient_290,43,MDD,Standard DBT,ERP,Life Skills,3.6
+MRN-647088,Patient_291,47,GAD,ERP,RO-DBT,Life Skills,3.8
+MRN-113764,Patient_292,67,Bipolar II,CBT,MBT,Strong Treatment,4.7
+MRN-702497,Patient_293,76,PTSD,ERP,RO-DBT,Strong Treatment,3.8
+MRN-175326,Patient_294,23,Schizoaffective,CBT,EMDR,Strong Treatment,4.3
+MRN-305606,Patient_295,61,OCD,ERP,RO-DBT,Life Skills,3.6
+MRN-421310,Patient_296,70,Schizoaffective,ERP,RO-DBT,Life Skills,4.1
+MRN-468219,Patient_297,61,GAD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-127372,Patient_298,58,MDD,ERP,RO-DBT,Strong Treatment,4.5
+MRN-118880,Patient_299,36,OCD,ERP,RO-DBT,Strong Treatment,4.8
+MRN-789508,Patient_300,44,Bipolar I,EMDR,Standard DBT,Strong Treatment,4.5
+MRN-673804,Patient_301,77,Avoidant PD,MBT,Psychodynamic,Strong Treatment,4.3
+MRN-288051,Patient_302,43,ASPD,MBT,Psychodynamic,Strong Treatment,3.6
+MRN-770825,Patient_303,68,Schizoaffective,CBT,MBT,Strong Treatment,3.8
+MRN-310971,Patient_304,39,MDD,MBT,ERP,Strong Treatment,5.0
+MRN-514534,Patient_305,53,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-716013,Patient_306,43,Schizoaffective,EMDR,Life Skills,Strong Treatment,4.6
+MRN-803114,Patient_307,41,MDD,EMDR,MBT,Life Skills,4.6
+MRN-914122,Patient_308,79,PTSD,MBT,Psychodynamic,Life Skills,4.4
+MRN-316883,Patient_309,18,Schizoaffective,Psychodynamic,Standard DBT,Strong Treatment,3.6
+MRN-868418,Patient_310,38,MDD,Life Skills,RO-DBT,Strong Treatment,3.5
+MRN-646176,Patient_311,54,MDD,Psychodynamic,MBT,Strong Treatment,3.8
+MRN-417448,Patient_312,63,ASPD,MBT,Psychodynamic,Strong Treatment,4.4
+MRN-796625,Patient_313,58,PTSD,MBT,EMDR,Strong Treatment,3.9
+MRN-709338,Patient_314,25,Bipolar I,Life Skills,Psychodynamic,Life Skills,3.9
+MRN-627504,Patient_315,82,GAD,CBT,MBT,Strong Treatment,4.1
+MRN-240295,Patient_316,47,MDD,CBT,RO-DBT,Life Skills,3.7
+MRN-574154,Patient_317,60,PTSD,MBT,EMDR,Life Skills,4.6
+MRN-301066,Patient_318,22,Schizoaffective,ERP,RO-DBT,Strong Treatment,4.8
+MRN-279016,Patient_319,64,MDD,ERP,Standard DBT,Strong Treatment,4.9
+MRN-946853,Patient_320,23,Bipolar I,RO-DBT,ERP,Life Skills,3.9
+MRN-604208,Patient_321,38,Bipolar I,MBT,EMDR,Strong Treatment,4.1
+MRN-579660,Patient_322,21,MDD,Psychodynamic,MBT,Strong Treatment,4.2
+MRN-107739,Patient_323,70,Schizoaffective,ERP,RO-DBT,Strong Treatment,4.5
+MRN-835735,Patient_324,83,Bipolar I,ERP,RO-DBT,Strong Treatment,4.0
+MRN-684050,Patient_325,74,PTSD,CBT,Life Skills,Strong Treatment,3.8
+MRN-157446,Patient_326,78,Bipolar II,Standard DBT,CBT,Strong Treatment,4.8
+MRN-829434,Patient_327,30,MDD,ERP,RO-DBT,Life Skills,4.3
+MRN-301994,Patient_328,77,Schizoaffective,ERP,Life Skills,Strong Treatment,4.9
+MRN-689619,Patient_329,25,GAD,ERP,RO-DBT,Strong Treatment,3.8
+MRN-296107,Patient_330,31,GAD,RO-DBT,Life Skills,Life Skills,4.9
+MRN-772677,Patient_331,82,MDD,Standard DBT,RO-DBT,Strong Treatment,4.1
+MRN-399280,Patient_332,22,MDD,Life Skills,EMDR,Life Skills,4.8
+MRN-176334,Patient_333,82,GAD,ERP,RO-DBT,Life Skills,3.6
+MRN-537003,Patient_334,59,Bipolar I,Psychodynamic,MBT,Strong Treatment,4.6
+MRN-209451,Patient_335,40,PTSD,MBT,ERP,Strong Treatment,3.6
+MRN-167547,Patient_336,26,PTSD,Standard DBT,Life Skills,Strong Treatment,4.5
+MRN-825437,Patient_337,56,Schizoaffective,EMDR,Standard DBT,Strong Treatment,4.8
+MRN-411545,Patient_338,28,Bipolar I,Life Skills,RO-DBT,Strong Treatment,3.6
+MRN-321252,Patient_339,79,Schizoaffective,ERP,Standard DBT,Life Skills,3.9
+MRN-683119,Patient_340,61,PTSD,Life Skills,MBT,Strong Treatment,3.5
+MRN-710520,Patient_341,77,Bipolar I,RO-DBT,MBT,Strong Treatment,4.7
+MRN-319836,Patient_342,84,Schizoaffective,MBT,Life Skills,Strong Treatment,4.0
+MRN-751134,Patient_343,39,Bipolar II,Psychodynamic,RO-DBT,Life Skills,4.3
+MRN-441953,Patient_344,23,GAD,RO-DBT,CBT,Strong Treatment,5.0
+MRN-917445,Patient_345,75,OCD,ERP,RO-DBT,Life Skills,4.1
+MRN-462465,Patient_346,84,PTSD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-188649,Patient_347,29,PTSD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-304165,Patient_348,38,PTSD,ERP,RO-DBT,Strong Treatment,4.5
+MRN-186369,Patient_349,34,Schizoaffective,MBT,EMDR,Life Skills,4.0
+MRN-164346,Patient_350,78,GAD,MBT,CBT,Strong Treatment,4.9
+MRN-422167,Patient_351,60,PTSD,Psychodynamic,ERP,Life Skills,3.9
+MRN-510113,Patient_352,38,PTSD,Psychodynamic,ERP,Strong Treatment,4.2
+MRN-855948,Patient_353,21,OCD,ERP,RO-DBT,Life Skills,4.0
+MRN-688544,Patient_354,22,Dependent PD,MBT,Psychodynamic,Strong Treatment,5.0
+MRN-949097,Patient_355,40,MDD,MBT,EMDR,Life Skills,4.1
+MRN-971130,Patient_356,83,PTSD,ERP,RO-DBT,Life Skills,3.8
+MRN-627236,Patient_357,65,PTSD,CBT,Standard DBT,Strong Treatment,4.0
+MRN-591080,Patient_358,60,Bipolar I,ERP,RO-DBT,Strong Treatment,4.0
+MRN-561712,Patient_359,60,Bipolar I,ERP,RO-DBT,Life Skills,3.7
+MRN-155690,Patient_360,63,Bipolar II,Psychodynamic,CBT,Strong Treatment,4.3
+MRN-989032,Patient_361,57,Avoidant PD,MBT,Psychodynamic,Strong Treatment,4.8
+MRN-272007,Patient_362,42,Schizoaffective,Standard DBT,RO-DBT,Life Skills,3.7
+MRN-759891,Patient_363,84,MDD,Life Skills,RO-DBT,Strong Treatment,3.9
+MRN-152949,Patient_364,20,MDD,ERP,RO-DBT,Strong Treatment,4.8
+MRN-881887,Patient_365,37,Bipolar II,ERP,RO-DBT,Strong Treatment,3.7
+MRN-658947,Patient_366,52,OCD,ERP,RO-DBT,Life Skills,3.7
+MRN-846069,Patient_367,55,OCD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-985276,Patient_368,64,Bipolar I,RO-DBT,Life Skills,Strong Treatment,4.5
+MRN-380583,Patient_369,76,BPD,MBT,Psychodynamic,Life Skills,4.4
+MRN-660719,Patient_370,71,Bipolar I,ERP,Life Skills,Strong Treatment,4.7
+MRN-469739,Patient_371,50,PTSD,MBT,Life Skills,Strong Treatment,4.3
+MRN-794885,Patient_372,52,Schizoaffective,RO-DBT,MBT,Strong Treatment,5.0
+MRN-592434,Patient_373,48,Narcissistic PD,MBT,Psychodynamic,Strong Treatment,4.3
+MRN-616268,Patient_374,76,MDD,CBT,ERP,Life Skills,3.8
+MRN-546484,Patient_375,76,MDD,ERP,RO-DBT,Strong Treatment,4.1
+MRN-135317,Patient_376,44,MDD,MBT,Psychodynamic,Strong Treatment,4.2
+MRN-415611,Patient_377,29,OCD,ERP,RO-DBT,Strong Treatment,4.2
+MRN-104567,Patient_378,48,GAD,MBT,CBT,Strong Treatment,4.3
+MRN-810519,Patient_379,82,PTSD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-397813,Patient_380,38,MDD,RO-DBT,Life Skills,Life Skills,3.9
+MRN-969051,Patient_381,41,GAD,MBT,Psychodynamic,Strong Treatment,4.1
+MRN-819464,Patient_382,35,MDD,ERP,Standard DBT,Life Skills,4.0
+MRN-374853,Patient_383,45,MDD,CBT,MBT,Life Skills,4.0
+MRN-517775,Patient_384,21,Bipolar II,ERP,RO-DBT,Strong Treatment,3.9
+MRN-310087,Patient_385,84,Avoidant PD,MBT,Psychodynamic,Life Skills,4.0
+MRN-319595,Patient_386,31,Bipolar I,MBT,Psychodynamic,Strong Treatment,4.9
+MRN-725335,Patient_387,39,MDD,RO-DBT,CBT,Life Skills,4.7
+MRN-898806,Patient_388,68,Bipolar II,MBT,ERP,Life Skills,4.2
+MRN-767265,Patient_389,27,OCD,ERP,RO-DBT,Strong Treatment,3.5
+MRN-962995,Patient_390,70,OCD,ERP,RO-DBT,Life Skills,3.6
+MRN-511986,Patient_391,54,OCD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-761252,Patient_392,70,PTSD,MBT,Life Skills,Life Skills,4.8
+MRN-427385,Patient_393,59,MDD,RO-DBT,Psychodynamic,Life Skills,4.0
+MRN-172399,Patient_394,25,MDD,ERP,RO-DBT,Life Skills,4.6
+MRN-412481,Patient_395,52,Bipolar II,MBT,CBT,Strong Treatment,4.3
+MRN-944621,Patient_396,36,OCD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-842076,Patient_397,30,MDD,ERP,RO-DBT,Life Skills,4.8
+MRN-194475,Patient_398,53,MDD,EMDR,CBT,Strong Treatment,4.1
+MRN-182520,Patient_399,70,MDD,Psychodynamic,RO-DBT,Life Skills,4.6
+MRN-404502,Patient_400,45,OCD,ERP,RO-DBT,Life Skills,4.2
+MRN-361166,Patient_401,76,OCD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-365734,Patient_402,56,BPD,MBT,Psychodynamic,Strong Treatment,4.1
+MRN-272421,Patient_403,62,Bipolar I,MBT,Life Skills,Strong Treatment,4.2
+MRN-158067,Patient_404,79,GAD,MBT,EMDR,Life Skills,4.6
+MRN-629506,Patient_405,34,GAD,ERP,RO-DBT,Strong Treatment,3.7
+MRN-323162,Patient_406,25,Bipolar II,RO-DBT,Standard DBT,Strong Treatment,4.6
+MRN-163767,Patient_407,29,Bipolar I,Standard DBT,EMDR,Life Skills,4.5
+MRN-808052,Patient_408,54,Bipolar II,ERP,RO-DBT,Life Skills,4.9
+MRN-270118,Patient_409,76,OCD,ERP,RO-DBT,Strong Treatment,4.9
+MRN-637781,Patient_410,31,PTSD,RO-DBT,MBT,Life Skills,4.9
+MRN-641019,Patient_411,55,Bipolar I,Psychodynamic,RO-DBT,Strong Treatment,4.3
+MRN-776447,Patient_412,55,OCD,ERP,RO-DBT,Life Skills,4.6
+MRN-509339,Patient_413,80,Avoidant PD,MBT,Psychodynamic,Strong Treatment,4.4
+MRN-175238,Patient_414,75,Schizoaffective,CBT,Life Skills,Strong Treatment,4.2
+MRN-768484,Patient_415,20,MDD,ERP,Psychodynamic,Strong Treatment,4.4
+MRN-849931,Patient_416,28,MDD,RO-DBT,ERP,Strong Treatment,4.7
+MRN-338625,Patient_417,45,MDD,ERP,Psychodynamic,Strong Treatment,4.0
+MRN-932245,Patient_418,67,Schizoaffective,EMDR,CBT,Life Skills,4.9
+MRN-599253,Patient_419,78,MDD,Standard DBT,ERP,Strong Treatment,3.7
+MRN-161758,Patient_420,80,ASPD,MBT,Psychodynamic,Life Skills,4.5
+MRN-121806,Patient_421,20,BPD,ERP,RO-DBT,Life Skills,5.0
+MRN-412792,Patient_422,83,Schizoaffective,ERP,RO-DBT,Strong Treatment,3.8
+MRN-216414,Patient_423,79,MDD,CBT,Life Skills,Strong Treatment,4.3
+MRN-228717,Patient_424,18,Bipolar II,Psychodynamic,ERP,Strong Treatment,5.0
+MRN-238684,Patient_425,69,Narcissistic PD,MBT,Psychodynamic,Strong Treatment,4.0
+MRN-888648,Patient_426,69,Narcissistic PD,MBT,Psychodynamic,Strong Treatment,4.7
+MRN-439820,Patient_427,43,Bipolar I,MBT,CBT,Strong Treatment,4.2
+MRN-185267,Patient_428,24,OCD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-630680,Patient_429,79,PTSD,CBT,Psychodynamic,Strong Treatment,4.8
+MRN-340343,Patient_430,56,Bipolar I,EMDR,CBT,Strong Treatment,4.8
+MRN-633630,Patient_431,82,Bipolar II,MBT,CBT,Strong Treatment,4.4
+MRN-565072,Patient_432,47,PTSD,Standard DBT,MBT,Strong Treatment,3.5
+MRN-757407,Patient_433,39,PTSD,CBT,Life Skills,Strong Treatment,4.0
+MRN-713384,Patient_434,56,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-495712,Patient_435,52,OCD,ERP,RO-DBT,Strong Treatment,4.1
+MRN-922199,Patient_436,39,OCD,ERP,RO-DBT,Life Skills,4.4
+MRN-495646,Patient_437,76,GAD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-781007,Patient_438,22,Bipolar II,Life Skills,Standard DBT,Strong Treatment,4.5
+MRN-782614,Patient_439,57,Schizoaffective,ERP,RO-DBT,Strong Treatment,5.0
+MRN-796542,Patient_440,30,GAD,Standard DBT,MBT,Strong Treatment,4.4
+MRN-343183,Patient_441,31,Bipolar I,ERP,RO-DBT,Strong Treatment,4.2
+MRN-698782,Patient_442,77,Schizoaffective,CBT,ERP,Life Skills,3.5
+MRN-180485,Patient_443,31,BPD,MBT,Psychodynamic,Strong Treatment,4.1
+MRN-577607,Patient_444,33,GAD,Life Skills,Psychodynamic,Strong Treatment,4.2
+MRN-441525,Patient_445,75,Bipolar I,MBT,EMDR,Strong Treatment,5.0
+MRN-147877,Patient_446,76,Bipolar II,ERP,Life Skills,Life Skills,3.6
+MRN-779121,Patient_447,76,PTSD,ERP,RO-DBT,Strong Treatment,4.2
+MRN-458930,Patient_448,61,OCD,ERP,RO-DBT,Strong Treatment,3.6
+MRN-791284,Patient_449,32,OCD,ERP,RO-DBT,Strong Treatment,4.3
+MRN-789209,Patient_450,52,OCD,ERP,RO-DBT,Life Skills,3.8
+MRN-280926,Patient_451,64,Bipolar II,EMDR,Standard DBT,Strong Treatment,4.4
+MRN-591697,Patient_452,23,Bipolar II,ERP,RO-DBT,Life Skills,4.4
+MRN-555766,Patient_453,34,MDD,RO-DBT,MBT,Life Skills,3.7
+MRN-323580,Patient_454,43,Bipolar I,Life Skills,CBT,Strong Treatment,5.0
+MRN-100345,Patient_455,22,OCD,ERP,RO-DBT,Strong Treatment,4.4
+MRN-906840,Patient_456,82,Bipolar I,ERP,RO-DBT,Strong Treatment,4.6
+MRN-626668,Patient_457,58,GAD,RO-DBT,Psychodynamic,Strong Treatment,4.9
+MRN-716568,Patient_458,80,MDD,MBT,Psychodynamic,Strong Treatment,4.9
+MRN-608592,Patient_459,29,Bipolar I,ERP,EMDR,Strong Treatment,4.7
+MRN-478286,Patient_460,35,ASPD,MBT,Psychodynamic,Strong Treatment,4.9
+MRN-406585,Patient_461,67,BPD,MBT,Psychodynamic,Strong Treatment,3.8
+MRN-154676,Patient_462,62,PTSD,Life Skills,Standard DBT,Strong Treatment,3.6
+MRN-984110,Patient_463,48,Avoidant PD,ERP,RO-DBT,Life Skills,4.4
+MRN-534461,Patient_464,32,Bipolar I,Psychodynamic,RO-DBT,Strong Treatment,4.5
+MRN-269105,Patient_465,33,OCD,ERP,RO-DBT,Strong Treatment,4.5
+MRN-151015,Patient_466,34,PTSD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-490861,Patient_467,82,GAD,EMDR,Psychodynamic,Strong Treatment,4.0
+MRN-473056,Patient_468,37,Bipolar I,ERP,EMDR,Strong Treatment,3.8
+MRN-664343,Patient_469,50,Bipolar II,Life Skills,CBT,Life Skills,4.0
+MRN-134875,Patient_470,20,MDD,EMDR,ERP,Strong Treatment,4.9
+MRN-295597,Patient_471,44,Schizoaffective,Standard DBT,RO-DBT,Strong Treatment,4.7
+MRN-797332,Patient_472,43,Bipolar II,EMDR,RO-DBT,Life Skills,3.6
+MRN-486846,Patient_473,78,Schizoaffective,ERP,RO-DBT,Strong Treatment,4.9
+MRN-656618,Patient_474,20,Bipolar II,ERP,Psychodynamic,Strong Treatment,4.7
+MRN-238720,Patient_475,57,Dependent PD,MBT,Psychodynamic,Strong Treatment,4.3
+MRN-347579,Patient_476,60,Bipolar II,Life Skills,Standard DBT,Life Skills,4.2
+MRN-132351,Patient_477,46,Bipolar II,CBT,EMDR,Life Skills,3.6
+MRN-463010,Patient_478,59,GAD,EMDR,Standard DBT,Strong Treatment,4.1
+MRN-590105,Patient_479,62,BPD,MBT,Psychodynamic,Strong Treatment,4.5
+MRN-113494,Patient_480,74,GAD,Psychodynamic,MBT,Strong Treatment,4.4
+MRN-799605,Patient_481,70,Bipolar II,CBT,Standard DBT,Life Skills,4.3
+MRN-647116,Patient_482,21,MDD,MBT,RO-DBT,Strong Treatment,3.5
+MRN-225536,Patient_483,66,Bipolar I,ERP,RO-DBT,Strong Treatment,3.5
+MRN-807635,Patient_484,37,Bipolar I,MBT,ERP,Life Skills,4.6
+MRN-362961,Patient_485,81,Bipolar I,MBT,Standard DBT,Strong Treatment,3.6
+MRN-123453,Patient_486,45,GAD,Life Skills,RO-DBT,Life Skills,3.9
+MRN-100018,Patient_487,84,Bipolar I,ERP,MBT,Strong Treatment,3.6
+MRN-775628,Patient_488,59,Avoidant PD,ERP,RO-DBT,Strong Treatment,3.9
+MRN-857222,Patient_489,19,Schizoaffective,ERP,RO-DBT,Strong Treatment,4.9
+MRN-275281,Patient_490,65,PTSD,CBT,Life Skills,Life Skills,3.7
+MRN-817839,Patient_491,23,ASPD,MBT,Psychodynamic,Life Skills,3.7
+MRN-979892,Patient_492,29,MDD,Standard DBT,Psychodynamic,Strong Treatment,3.7
+MRN-599580,Patient_493,34,Schizoaffective,CBT,RO-DBT,Life Skills,3.7
+MRN-270351,Patient_494,19,OCD,ERP,RO-DBT,Strong Treatment,4.6
+MRN-552416,Patient_495,41,Bipolar I,Standard DBT,Life Skills,Life Skills,3.9
+MRN-265397,Patient_496,34,OCD,ERP,RO-DBT,Strong Treatment,3.8
+MRN-437809,Patient_497,56,GAD,ERP,Standard DBT,Strong Treatment,3.9
+MRN-454002,Patient_498,45,BPD,MBT,Psychodynamic,Strong Treatment,5.0
+MRN-629838,Patient_499,36,GAD,CBT,MBT,Life Skills,4.2
