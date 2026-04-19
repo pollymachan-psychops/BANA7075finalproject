@@ -1,66 +1,73 @@
-# SparkSync
+# SparkSync Clinical Data Analysis Project
 
-## Project Description
-SparkSync is a data synchronization platform that leverages machine learning to ensure seamless data flow between multiple sources in real time. It addresses the growing need to keep data consistent across various applications and systems, enabling organizations to make timely decisions based on accurate information.
+## Project Overview
+The SparkSync Clinical Data Analysis project aims to leverage machine learning techniques to analyze clinical data for improved decision-making and insights in patient care. This project specifically focuses on analyzing datasets related to clinical programs and patient coordinator comfort levels.
 
-## Problem Being Solved
-In today's data-driven world, organizations face challenges in maintaining data integrity across multiple systems. Data inconsistencies can lead to erroneous conclusions and hinder decision-making processes.
+## Clinical Data Analysis Focus
+This project emphasizes two main analysis streams: classification and regression. The classification task addresses the `last_elected_program` to predict the eventual program selection, while the regression task relates to `coordinator_comfort` to quantify the comfort level of coordinators working with patients.
 
-## Solution Approach
-Using advanced machine learning algorithms, SparkSync identifies patterns within data discrepancies and executes real-time synchronization processes to correct them, ensuring that all systems reflect the same information without manual intervention.
+## Dual ML Pipelines
+The analysis is conducted through dual machine learning pipelines, with the following details:
+1. **Classification Pipeline**:  This pipeline utilizes various classification algorithms to predict the `last_elected_program` using relevant features extracted during data preprocessing.
+2. **Regression Pipeline**: For predicting `coordinator_comfort`, this pipeline employs regression techniques suitable for continuous outcome variables.
 
-## Installation Instructions
-To install SparkSync, follow these steps:
+## Data Cleaning and Preprocessing Steps
+- Removal of duplicates and irrelevant features.
+- Handling of missing values through appropriate imputation methods.
+- Encoding categorical variables into numerical formats.
+- Scaling of numerical features for better algorithm performance.
+- Splitting the dataset into training and testing sets to evaluate model performance.
 
-1. Clone the repository:
-   ```bash
+## Model Comparison Results
+A variety of models were tested for both classification and regression tasks. The performance metrics considered include accuracy, precision, recall for classification, and RMSE, R² for regression, allowing for thorough comparisons of model effectiveness.
+
+## Feature Importance Analysis
+The feature importance analysis illustrates which variables contribute most significantly to model predictions, aiding in understanding the underlying factors influencing both the program elections and comfort levels of patient coordinators.
+
+## Installation and Usage Instructions
+To successfully run the project, follow the steps below:
+
+1. **Clone the Repository**
+   ```
    git clone https://github.com/pollymachan-psychops/BANA7075finalproject.git
    cd BANA7075finalproject
    ```
-2. Install the required dependencies:
-   ```bash
+
+2. **Install Dependencies**
+   Make sure you have Python 3.x installed, then install the necessary packages:
+   ```
    pip install -r requirements.txt
    ```
 
-## Usage Guide
-To start using SparkSync, run the following command:
-```bash
-python spark_sync.py
+3. **Run the Scripts**
+   - To generate the SparkSync data, run:
+     ```
+     python bana7075generatesparksyncdata.py
+     ```
+   - To perform data analysis, run:
+     ```
+     python sparksync_analysis.py
+     ```
+
+## Output Directory Structure
+The outputs from the analysis are organized as follows:
 ```
-
-Ensure that you have your data sources correctly configured in the `config.json` file before executing the script.
-
-## Project Structure
+output/
+├── classification_results/
+│   ├── model_1_results.csv
+│   ├── model_2_results.csv
+├── regression_results/
+│   ├── regression_analysis_results.csv
+└── feature_importance/
+    └── feature_importance_plot.png
 ```
-BANA7075finalproject/
-├── README.md
-├── requirements.txt
-├── spark_sync.py
-├── config.json
-└── data/
-```
-
-## Results and Findings from the ML Analysis
-- **Data Consistency Rate**: Achieved 98% consistency across data sources.
-- **Processing Speed**: The average synchronization process takes less than 2 seconds.
-- **Error Reduction**: Reduced manual data correction efforts by 75%.
-
-## Features
-- Real-time data synchronization
-- User-friendly configuration through JSON
-- Automated error detection and correction
 
 ## Technologies Used
-- Python
-- Apache Spark
-- Pandas
-- Scikit-learn
+- Python for data analysis.
+- Scikit-learn for machine learning models.
+- Pandas for data manipulation.
+- Matplotlib and Seaborn for visualization.
+- Spark for handling large datasets efficiently.
 
 ## How to Reproduce Results
-To reproduce the results presented in this project, follow these steps:
-1. Set up the environment as outlined in the installation instructions.
-2. Use the provided datasets in the `data/` directory to test the synchronization process.
-3. Analyze the logs generated during execution to verify results. 
-
-## Contact
-For further questions or feedback, please reach out to the project maintainer at pollymachan@psychops.com.
+To reproduce the results, ensure that you have the same environment as specified in `requirements.txt`, and follow the installation and usage instructions above. The dataset must be structured similar to how it was initially prepared for the analysis to ensure compatibility with the scripts.
