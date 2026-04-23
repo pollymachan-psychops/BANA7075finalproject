@@ -1,0 +1,14 @@
+from pydantic import BaseModel
+
+
+class PatientRequest(BaseModel):
+    age: float
+    primary_diagnosis: str
+    priority_1: str
+    priority_2: str
+    transition_focus: str
+    coordinator_comfort: str
+
+
+class BatchPatientRequest(BaseModel):
+    records: list[PatientRequest]
